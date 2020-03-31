@@ -1,0 +1,6 @@
+c:\users\administrator\documents\visual studio 2015\Projects\KeyboardTest\KeyboardTest\bin\Debug\KeyboardTest.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\KeyboardTest\KeyboardTest\bin\Debug\KeyboardTest.exe
+c:\users\administrator\documents\visual studio 2015\Projects\KeyboardTest\KeyboardTest\bin\Debug\KeyboardTest.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\KeyboardTest\KeyboardTest\obj\Debug\KeyboardTest.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2015\Projects\KeyboardTest\KeyboardTest\obj\Debug\KeyboardTest.exe
+c:\users\administrator\documents\visual studio 2015\Projects\KeyboardTest\KeyboardTest\obj\Debug\KeyboardTest.pdb
